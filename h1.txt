@@ -1,8 +1,5 @@
 hello world
 change1
 23
-<<<<<<< HEAD
-test12
-=======
 test123456
->>>>>>> xx1
+
